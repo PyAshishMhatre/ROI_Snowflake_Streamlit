@@ -1,9 +1,9 @@
 {
-      "account": "ca60211.us-east4.gcp",
-      "user": "PYASHISHMHATRE",
-      "password": "!Ashish123",
-      "role": "SYSADMIN",
-      "warehouse": "COMPUTE_WH",
-      "database": "ROI",
-      "schema": "PUBLIC"
+      "account": "",
+      "user": "",
+      "password": "",
+      "role": "",
+      "warehouse": "",
+      "database": "",
+      "schema": ""
 }
