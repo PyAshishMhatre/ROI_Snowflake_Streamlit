@@ -1,4 +1,7 @@
-pandas
 streamlit
-numpy 
-snowflake-snowpark-python==0.7.0
+pandas
+numpy
+datetime
+seaborn
+matplotlib
+snowflake-connector-python
