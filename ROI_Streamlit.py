@@ -5,8 +5,8 @@
 import json
 import altair as alt
 import pandas as pd
-# from snowflake.snowpark.session import Session
-# from snowflake.snowpark.functions import col
+from snowflake.snowpark.session import Session
+from snowflake.snowpark.functions import col
 import streamlit as st
 
 APP_ICON_URL = "https://i.imgur.com/dBDOHH3.png"
