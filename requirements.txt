@@ -1,6 +1,4 @@
 pandas
 streamlit
 numpy 
-json
-altair
 snowflake-snowpark-python==0.7.0
