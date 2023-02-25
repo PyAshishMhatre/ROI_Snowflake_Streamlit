@@ -4,4 +4,4 @@ numpy
 datetime
 seaborn
 matplotlib
-snowflake-connector-python
+snowflake-snowpark-python[pandas] == 1.1.0
