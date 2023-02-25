@@ -4,4 +4,4 @@ numpy
 datetime
 seaborn
 matplotlib
-snowflake-connector-python
+snowflake-connector-python==3.0.0
